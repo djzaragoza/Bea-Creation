@@ -62,6 +62,7 @@ body {
 
 .padding {
     padding-bottom: 2rem;
+
 }
 
 .welcome {
@@ -154,7 +155,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('https://images.unsplash.com/photo-1555276831-f5996bfbb1cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-image: url('');
     position: fixed;
     display: block;
     top: 0;

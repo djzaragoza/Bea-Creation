@@ -4,7 +4,7 @@ html,
 body {
     height: 100%;
     width: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppings', sans-serif;
     color: #222;
 
 }
@@ -48,6 +48,8 @@ body {
 .btn-primary {
     background-color: #6648b1;
     border: 1px solid #6648b1;
+
+
 }
 
 .btn-primary:hover {
@@ -60,8 +62,10 @@ body {
     border-radius: 0;
 }
 
+
 .padding {
     padding-bottom: 2rem;
+
 }
 
 .welcome {
@@ -93,27 +97,15 @@ body {
 
 .fa-facebook {
     color: #3b5998;
-}
+} 
 
 .fa-twitter {
     color: #00aced;
 }
 
 .fa-instagram {
-    color: #517fa8;
+    color: 
 }
-
-.fa-youtube {
-    color: #bb0000;
-}
-
-.fa-facebook:hover,
-.fa-twitter:hover,
-.fa-instagram:hover,
-.fa-youtube:hover {
-    color: #d5d5d5;
-}
-
 
 
 
@@ -154,7 +146,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('https://images.unsplash.com/photo-1555276831-f5996bfbb1cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-image: url('');
     position: fixed;
     display: block;
     top: 0;
