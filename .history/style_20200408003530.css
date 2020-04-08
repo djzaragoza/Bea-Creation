@@ -62,6 +62,7 @@ body {
 
 .padding {
     padding-bottom: 2rem;
+
 }
 
 .welcome {
@@ -114,102 +115,18 @@ body {
     color: #d5d5d5;
 }
 
-footer {
-    background-color: #3f3f3f;
-    color: #d5d5d5;
-    padding-top: 2rem;
-}
 
-hr.light {
-    border-top: 1px solid #d5d5d5;
-    width: 75%;
-    margin-top: .8rem;
-    margin-bottom: 1rem;
-}
 
-footer a {
-    color: #d5d5d5;
-}
 
-hr.light-100 {
-    border-top: 1px solid #d5d5d5;
-    width: 100%;
-    margin-top: .8rem;
-    margin-bottom: 1rem;
-}
 
 
 
 /*------- media queries -------- */
-@media (max-width: 992px) {
-    .social a {
-        font-size: 4em;
-        padding: 2rem;
-    }
-}
+@media (max-width: 992px) {}
 
-@media (max-width: 768px) {
-    .carousel-caption {
-        position: absolute;
-        top: 45%;
-    }
+@media (max-width: 768px) {}
 
-    .carousel-caption h1 {
-        font-size: 350%;
-    }
-
-    .carousel-caption h3 {
-        font-size: 140%;
-        font-weight: 400;
-        padding-bottom: .25rem;
-    }
-
-    .carousel-caption .btn {
-        font-size: 95%;
-        padding: 8px 14px;
-    }
-
-    .display-4 {
-        font-size: 200%;
-    }
-
-    .social a {
-        font-size: 2.5em;
-        padding: 1.2rem;
-    }
-}
-
-@media (max-width: 576px) {
-    .carousel-caption {
-        top: 40%;
-    }
-
-    .carousel-caption h1 {
-        font-size: 250%;
-    }
-
-    .carousel-caption h3 {
-        font-size: 110%;
-    }
-
-    .carousel-caption .btn {
-        font-size: 90%;
-        padding: 4px 8px;
-    }
-
-    .carousel-indicators {
-        display: none;
-    }
-
-    .display-4 {
-        font-size: 160%;
-    }
-
-    .social a {
-        font-size: 2em;
-        padding: .7rem;
-    }
-}
+@media (max-width: 576px) {}
 
 /* ------- firefox bug fix ------ */
 .carousel-item {
@@ -238,7 +155,7 @@ figure {
 }
 
 #fixed {
-    background-image: url('https://images.unsplash.com/photo-1555276831-f5996bfbb1cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-image: url('');
     position: fixed;
     display: block;
     top: 0;
